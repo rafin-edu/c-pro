@@ -18,7 +18,6 @@ int main() {
      scanf("%s", &mother_name);
 
      printf("Hello %s . I hope you are well. Your age is %d . You can do anything in your life if you practice well. Your GPA is %.2f not so bad. But you should practice more. Your father name is %s . Your mother name is %s.", name, age , gpa , father_name, mother_name);
-       // I will scan print like this. hello naimul .I hope you are well .your age is 10 .You can do anything in your life if you practice well. Your GpA is 4.44 not so bad .But you should practice more. Your father name is abdul and mother name is nasima
 
     return 0;
 
