@@ -8,7 +8,6 @@ int main()
 
     {
        printf("3 X %d = %.0f\n", i ,n);
-       
     }
     
     return 0;
